@@ -31,6 +31,10 @@ O Bill, um gênio da matemática nascido nos bares, cuida dos números: você cr
 - **Tema claro e escuro**
 - **Publicado nas lojas**: iOS e Android
 
+## Meu papel
+
+Pensei o conceito do produto do zero: como ele funcionaria, a jornada de dividir a conta e a experiência de uso. Também fiz a validação de mercado e da ideia antes de tirar do papel.
+
 ## Stack
 
 `Mobile` `iOS` `Android`
