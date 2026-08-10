@@ -6,6 +6,15 @@
 
 📱 **Baixe agora:** [App Store](https://apps.apple.com/br/app/id1664642166) · [Google Play](https://play.google.com/store/apps/details?id=br.com.divideaibill)
 
+## Telas do app
+
+<p>
+  <img src="divideaibill-hero.png" alt="Telas do Divide Aí, Bill" width="640" />
+</p>
+<p>
+  <img src="divideaibill-theme.png" alt="Divide Aí, Bill em tema claro e escuro" width="480" />
+</p>
+
 ## O problema
 
 Dividir conta de bar no "vamos rachar igual" gera injustiça, e dividir na calculadora gera briga. Couvert, taxa de serviço e quem pediu o quê viram um caos no fim da noite.
