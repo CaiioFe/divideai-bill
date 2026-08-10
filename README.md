@@ -2,7 +2,7 @@
 
 > Chega de confusão na hora de dividir a conta do bar: o Bill divide item por item, soma couvert e taxa de serviço, e mostra quanto cada um paga.
 
-🌐 **Site:** [divideaibill.com.br](https://divideaibill.com.br)
+🌐 **Site:** [divideaibill.com.br](https://divideai-bill-landing.vercel.app) (domínio próprio em propagação)
 
 📱 **Baixe agora:** [App Store](https://apps.apple.com/br/app/id1664642166) · [Google Play](https://play.google.com/store/apps/details?id=br.com.divideaibill)
 
