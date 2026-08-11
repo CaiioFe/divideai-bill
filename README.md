@@ -9,10 +9,12 @@
 ## Telas do app
 
 <p>
-  <img src="divideaibill-hero.png" alt="Telas do Divide Aí, Bill" width="640" />
-</p>
-<p>
-  <img src="divideaibill-theme.png" alt="Divide Aí, Bill em tema claro e escuro" width="480" />
+  <img src="01-intro.webp" width="150" />
+  <img src="02-criar-mesa.webp" width="150" />
+  <img src="03-curtir-role.webp" width="150" />
+  <img src="04-parte-chata.webp" width="150" />
+  <img src="05-bora-bill.webp" width="150" />
+  <img src="06-organize.webp" width="150" />
 </p>
 
 ## O problema
